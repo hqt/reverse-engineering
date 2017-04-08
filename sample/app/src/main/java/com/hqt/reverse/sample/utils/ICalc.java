@@ -7,3 +7,4 @@ package com.hqt.reverse.sample.utils;
 public interface ICalc {
     int sum(int first, int second);
 }
+
